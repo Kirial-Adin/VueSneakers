@@ -1,8 +1,8 @@
 How to launch a project?🤔
 -----------------------
-If you do not have the .env file in the server folder, then it must be added to this folder with the following values:
+You need to create an .env file in server with these keys and your comments:
 ```.env
-PORT=5000
+PORT="Your port"
 DB_URL=
 JWT_ACCESS_SECRET=
 JWT_REFRESH_SECRET=
